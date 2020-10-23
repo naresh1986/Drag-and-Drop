@@ -4,8 +4,8 @@ Drag and Drop using React.JS.
 
 Dependencies used:
 
-react
-react-beautiful-dnd
-react-dom
-react-scripts
+react,
+react-beautiful-dnd,
+react-dom,
+react-scripts,
 uuid
